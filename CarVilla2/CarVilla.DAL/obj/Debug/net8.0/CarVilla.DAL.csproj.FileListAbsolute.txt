@@ -1,0 +1,28 @@
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.deps.json
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\refint\CarVilla.DAL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\ref\CarVilla.DAL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.genruntimeconfig.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.deps.json
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.runtimeconfig.json
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\bin\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.AssemblyInfo.cs
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\refint\CarVilla.DAL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.genruntimeconfig.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\ref\CarVilla.DAL.dll

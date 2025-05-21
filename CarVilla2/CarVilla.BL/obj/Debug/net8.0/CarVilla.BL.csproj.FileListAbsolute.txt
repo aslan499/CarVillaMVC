@@ -1,0 +1,30 @@
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.deps.json
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.C951CE24.Up2Date
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\refint\CarVilla.BL.dll
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\II Novbe\source\repos\CarVilla2\CarVilla.BL\obj\Debug\net8.0\ref\CarVilla.BL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.deps.json
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\bin\Debug\net8.0\CarVilla.DAL.pdb
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.AssemblyInfo.cs
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.C951CE24.Up2Date
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\refint\CarVilla.BL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.pdb
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\ref\CarVilla.BL.dll
