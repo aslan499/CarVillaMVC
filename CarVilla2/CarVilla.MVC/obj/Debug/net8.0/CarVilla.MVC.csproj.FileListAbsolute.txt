@@ -528,3 +528,4 @@ C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.MVC\obj\Debug\net8.0\refint
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.MVC\obj\Debug\net8.0\CarVilla.MVC.pdb
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.MVC\obj\Debug\net8.0\CarVilla.MVC.genruntimeconfig.cache
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.MVC\obj\Debug\net8.0\ref\CarVilla.MVC.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.MVC\obj\Debug\net8.0\CarVilla.MVC.sourcelink.json

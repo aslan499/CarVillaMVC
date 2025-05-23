@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p3VjzyRdlEjKUCXglqCFKYaFfCov5mA2K3jbrdaCQAY=",
+  "Hash": "sHJQ+k5NDP0MkubFgruIHUg+ovQAER9MctxszfNBovY=",
   "Source": "CarVilla.MVC",
   "BasePath": "_content/CarVilla.MVC",
   "Mode": "Default",
@@ -20051,6 +20051,90 @@
       "OriginalItemSpec": "wwwroot\\assets\\assets\\logo\\favicon.png"
     },
     {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8f00fi95cv",
+      "Integrity": "JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8f00fi95cv",
+      "Integrity": "JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8f00fi95cv",
+      "Integrity": "JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nyiik7gid",
+      "Integrity": "4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg"
+    },
+    {
       "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.jpg",
       "SourceId": "CarVilla.MVC",
       "SourceType": "Discovered",
@@ -20091,6 +20175,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\sinanengin57d093e5-beee-48cb-9a1b-586356ad2d42.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "owef2bafjo",
+      "Integrity": "yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17n5ki3z3p",
+      "Integrity": "rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9q8bjvcg29",
+      "Integrity": "8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27s1cj7ft5",
+      "Integrity": "/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg",
+      "SourceId": "CarVilla.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\",
+      "BasePath": "_content/CarVilla.MVC",
+      "RelativePath": "assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27s1cj7ft5",
+      "Integrity": "/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg"
     }
   ],
   "Endpoints": [
@@ -98323,6 +98512,334 @@
       ]
     },
     {
+      "Route": "assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.8f00fi95cv.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:51:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8f00fi95cv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:51:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.8f00fi95cv.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8f00fi95cv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.8f00fi95cv.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 23:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8f00fi95cv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 23:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.5nyiik7gid.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:33:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nyiik7gid"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:33:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA="
+        }
+      ]
+    },
+    {
       "Route": "assets/UploadedImages/alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.5nyiik7gid.jpg",
       "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.jpg",
       "Selectors": [],
@@ -98483,6 +99000,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-q+xhm8X05/EVQANKg5Dp38HgMF3UG5R6T4ySQ0Q3mZs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:55:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.owef2bafjo.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 19:55:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owef2bafjo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.17n5ki3z3p.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:51:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17n5ki3z3p"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:51:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.9q8bjvcg29.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9q8bjvcg29"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:11:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.27s1cj7ft5.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27s1cj7ft5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.27s1cj7ft5.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27s1cj7ft5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg",
+      "AssetFile": "C:\\Users\\User\\Downloads\\CarVilla2\\CarVilla2\\CarVilla.MVC\\wwwroot\\assets\\UploadedImages\\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 00:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="
         }
       ]
     }

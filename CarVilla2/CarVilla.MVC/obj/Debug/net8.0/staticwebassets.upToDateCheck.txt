@@ -952,5 +952,14 @@ wwwroot\assets\assets\js\feather.min.js
 wwwroot\assets\assets\js\jquery.js
 wwwroot\assets\assets\js\owl.carousel.min.js
 wwwroot\assets\assets\logo\favicon.png
+wwwroot\assets\UploadedImages\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg
+wwwroot\assets\UploadedImages\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg
+wwwroot\assets\UploadedImages\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg
+wwwroot\assets\UploadedImages\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg
 wwwroot\assets\UploadedImages\alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.jpg
 wwwroot\assets\UploadedImages\sinanengin57d093e5-beee-48cb-9a1b-586356ad2d42.jpg
+wwwroot\assets\UploadedImages\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg
+wwwroot\assets\UploadedImages\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg
+wwwroot\assets\UploadedImages\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg
+wwwroot\assets\UploadedImages\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg
+wwwroot\assets\UploadedImages\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg

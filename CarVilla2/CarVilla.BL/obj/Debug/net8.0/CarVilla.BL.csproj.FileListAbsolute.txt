@@ -28,3 +28,4 @@ C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVill
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\refint\CarVilla.BL.dll
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.pdb
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\ref\CarVilla.BL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.BL\obj\Debug\net8.0\CarVilla.BL.sourcelink.json

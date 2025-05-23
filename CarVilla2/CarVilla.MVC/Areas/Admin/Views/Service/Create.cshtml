@@ -8,20 +8,24 @@
         <div class="form-group">
             <label for="exampleInputUsername1">Name</label>
             <input asp-for="Name"  class="form-control" id="exampleInputUsername1" placeholder="Name">
+           <span asp-validation-for="Name"></span>
         </div>
         <div class="form-group">
             <label for="exampleInputEmail1">Price</label>
             <input asp-for="Price" class="form-control" id="exampleInputEmail1" placeholder="Price">
+            <span asp-validation-for="Price"></span>
         </div>
         <div class="form-group">
             <label for="exampleInputPassword1">Model</label>
             <input asp-for="Model" class="form-control" id="exampleInputPassword1" placeholder="Model">
+        <span asp-validation-for="Model"></span>
         </div>
         <div class="form-group">
             <label for="exampleInputConfirmPassword1">Image</label>
             <input asp-for="Image" type="file" class="form-control" id="exampleInputConfirmPassword1" placeholder="Image">
+          <span asp-validation-for="Image"></span>
         </div>
-        
+        <div asp-validation-summary="All"></div>
         <button type="submit" class="btn btn-primary mr-2">Create</button>
     
     </form>

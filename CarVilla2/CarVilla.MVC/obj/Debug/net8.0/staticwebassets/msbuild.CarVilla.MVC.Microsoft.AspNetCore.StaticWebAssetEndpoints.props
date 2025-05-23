@@ -11448,6 +11448,54 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vw0mucqiie"},{"Name":"integrity","Value":"sha256-H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/assets/logo/favicon.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1534"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022H1xCTDfDBpBcY7IZ9NMVmkzND2fs5H9CDR/lkIU1G7A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 04 Jun 2018 21:27:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.8f00fi95cv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8f00fi95cv"},{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:51:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:51:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.8f00fi95cv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8f00fi95cv"},{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:11:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:11:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.8f00fi95cv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8f00fi95cv"},{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 23:57:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JMkm3iD9xll/YXmYtSDqBTvr5\u002BMjkmfHT1/ybXf9kLQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 23:57:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.5nyiik7gid.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5nyiik7gid"},{"Name":"integrity","Value":"sha256-4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:33:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:33:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.5nyiik7gid.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -11471,6 +11519,66 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r4wcrpsovs"},{"Name":"integrity","Value":"sha256-q\u002Bxhm8X05/EVQANKg5Dp38HgMF3UG5R6T4ySQ0Q3mZs="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/sinanengin57d093e5-beee-48cb-9a1b-586356ad2d42.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6855"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022q\u002Bxhm8X05/EVQANKg5Dp38HgMF3UG5R6T4ySQ0Q3mZs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 17:35:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:55:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.owef2bafjo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"owef2bafjo"},{"Name":"integrity","Value":"sha256-yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76426"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 19:55:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.17n5ki3z3p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"17n5ki3z3p"},{"Name":"integrity","Value":"sha256-rRC7/BeUEOsch4TB1w/L/2/zRFtPi7\u002BEoE9ksGe5x0g="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"226770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rRC7/BeUEOsch4TB1w/L/2/zRFtPi7\u002BEoE9ksGe5x0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 17:51:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rRC7/BeUEOsch4TB1w/L/2/zRFtPi7\u002BEoE9ksGe5x0g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"226770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rRC7/BeUEOsch4TB1w/L/2/zRFtPi7\u002BEoE9ksGe5x0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 17:51:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.9q8bjvcg29.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9q8bjvcg29"},{"Name":"integrity","Value":"sha256-8Y9XLWP\u002BhdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132343"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228Y9XLWP\u002BhdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8Y9XLWP\u002BhdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"132343"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228Y9XLWP\u002BhdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:11:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.27s1cj7ft5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"27s1cj7ft5"},{"Name":"integrity","Value":"sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125799"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"125799"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:34:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.27s1cj7ft5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"27s1cj7ft5"},{"Name":"integrity","Value":"sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="},{"Name":"label","Value":"_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125799"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:34:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarVilla.MVC/assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"125799"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 00:34:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

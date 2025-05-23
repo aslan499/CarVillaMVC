@@ -26,3 +26,4 @@ C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\refint
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.pdb
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.genruntimeconfig.cache
 C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\ref\CarVilla.DAL.dll
+C:\Users\User\Downloads\CarVilla2\CarVilla2\CarVilla.DAL\obj\Debug\net8.0\CarVilla.DAL.sourcelink.json

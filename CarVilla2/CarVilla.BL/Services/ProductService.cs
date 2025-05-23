@@ -73,8 +73,7 @@ namespace CarVilla.BL.Services
         #region Update 
         public void Update(int id , UpdateVM updateVM)
         {
-            ProductModel product = new ProductModel();
-
+           var product = GetProductById(id);    
             product.Name = updateVM.Name;
             product.Model = updateVM.Model;
             product.Price = updateVM.Price;
@@ -93,6 +92,7 @@ namespace CarVilla.BL.Services
                 uploadedPath = Path.Combine(uploadedPath, fullname);
                 using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
                 updateVM.Image.CopyTo(stream);
+
             }
             _context.SaveChanges();
         }

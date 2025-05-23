@@ -17172,6 +17172,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\assets\logo\favicon.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8f00fi95cv</Fingerprint>
+      <Integrity>JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad57301f82-b9a0-40d6-9543-0d981ab7ce76.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8f00fi95cv</Fingerprint>
+      <Integrity>JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchad87fdf44b-4ff4-403f-96d2-6c2913f61b6c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8f00fi95cv</Fingerprint>
+      <Integrity>JMkm3iD9xll/YXmYtSDqBTvr5+MjkmfHT1/ybXf9kLQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\adolfchade7fcf070-bac7-4a1c-a3c3-cad1eecfc5d1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5nyiik7gid</Fingerprint>
+      <Integrity>4RFT1WgtEGBDfxPrYKtJG7D0so7JHGmAfzJE1Fa9BqA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alper08be6443-eefa-4f35-a861-32e90b4f8958.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\alpereef6903e-cd2b-4c79-a283-6a57e03d67a8.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarVilla.MVC</SourceId>
@@ -17207,6 +17279,96 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\sinanengin57d093e5-beee-48cb-9a1b-586356ad2d42.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owef2bafjo</Fingerprint>
+      <Integrity>yFi9kEVTiEfOXqYEvVAOG8oOU5sRqnEzwvvcayPIE6Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\vilayethoca4d0042ae-8036-4e28-a4bd-32a5e8bf379d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>17n5ki3z3p</Fingerprint>
+      <Integrity>rRC7/BeUEOsch4TB1w/L/2/zRFtPi7+EoE9ksGe5x0g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WhatsApp Image 2025-03-04 at 22.32.54_e1765a1577af6e7d-71ed-409a-b6dd-e3e242902d41.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9q8bjvcg29</Fingerprint>
+      <Integrity>8Y9XLWP+hdUSsprN1g2rd/fejB60jeQNiMMwIJcYo9U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221031_19_40_07_Probea656dc-f4f9-4b59-8cb2-24954e28a54c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>27s1cj7ft5</Fingerprint>
+      <Integrity>/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro42aae9a5-b617-4588-945e-215b91c0fa47.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVilla.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVilla.MVC</BasePath>
+      <RelativePath>assets/UploadedImages/WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>27s1cj7ft5</Fingerprint>
+      <Integrity>/iyP4GsqZul0S9fpS9mlni62T9hMfAHr2NW6J7nTPeo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\UploadedImages\WIN_20221121_16_55_55_Pro5551e60d-4e18-4ec2-9adf-d878fbe7ac4b.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

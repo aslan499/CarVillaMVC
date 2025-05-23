@@ -12,7 +12,7 @@ namespace CarVilla.DAL.Models
         public double Price { get; set; }
         public string Model { get; set; }   
 
-        public string ImgUrl { get; set; }
+        public string? ImgUrl { get; set; }
 
     }
 }

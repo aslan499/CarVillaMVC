@@ -37,20 +37,18 @@ namespace CarVilla.MVC.Areas.Admin.Controllers
         }
         [HttpGet]
         public IActionResult Update(int id)
-        {
-            UpdateVM updateVM = new UpdateVM();
-            ProductModel product = _service.GetProductById(id);
-
-
-            product.Name = updateVM.Name;
-            product.Price = updateVM.Price;
-            product.Model = updateVM.Model;
-
-            return View(updateVM);
+        { 
+          UpdateVM updateVM = new UpdateVM();
+            var exprod = _service.GetProductById(id);
+            updateVM.Name = exprod.Name;    
+            updateVM.Price = exprod.Price;
+            updateVM.Model = exprod.Model;
+            return View(updateVM);  
         }
         [HttpPost]
         public IActionResult Update(int id,UpdateVM vm)
         {
+           
             _service.Update(id, vm);
             return RedirectToAction("Table","Panel");
         }
